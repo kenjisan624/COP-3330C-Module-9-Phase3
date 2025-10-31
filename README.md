@@ -22,7 +22,10 @@ This GUI Marvek Rivals app has the following architecture:
 src/main/java where we have:
 
 main 
+
+
 <img src="images/folder_icon (2).png" width="150" >
+
 
 **HeroFunctionalities.java** 
 handling logic & PDF creating
@@ -31,13 +34,21 @@ Import and export management
 
 
 ui 
+
+
 <img src="images/folder_icon (2).png" width="150" >
+
+
 **MainFrame.java** 
 Where all the interface is programmed for the GUI! 
 Used Marvel Rivals colours reference 
 **GradientButtonUI.java** 
 
 
+<img src="images/example.png" width="900" >
+
+This is an example of the GUI where the user can import a csv file,
+We can see the user loaded a hero season 1 file where the records has been passed through all the fields! 
 
 
 **Tools used:**
