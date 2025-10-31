@@ -43,8 +43,9 @@ ui
 
 **MainFrame.java** 
 Where all the interface is programmed for the GUI! 
-Used Marvel Rivals colours reference 
+
 **GradientButtonUI.java** 
+Used Marvel Rivals colours reference 
 
 
 <img src="images/example.png" width="900" >
