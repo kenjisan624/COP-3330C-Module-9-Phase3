@@ -1,4 +1,4 @@
-# COP-3330C-Module-9-Phase2
+# COP-3330C-Module-9-Phase3
 This Repository was created for Software Implementation Phase 3 - Adding a Graphic UI. It includes the .zip file / and the resources that the program uses.
 
 
